@@ -1,0 +1,13 @@
+.card{
+    margin: 10px;
+    width: 70%;
+}
+
+.right{
+    float: right;
+    background-color:#006AFF!important;
+}
+.MuiTypography-h5{
+    font-family: 'Roboto Slab', serif!important;
+}
+

@@ -1,0 +1,18 @@
+.app{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 33px;
+}
+
+.inputMessage{
+    justify-content: space-evenly;
+    position: fixed!important;
+    bottom: 0px!important;
+    left: 0!important;
+    padding: 10px 20px!important;
+    background-color: rgb(241, 241, 241);
+    flex-direction: row!important; 
+    width: 100%;
+}
+
+
